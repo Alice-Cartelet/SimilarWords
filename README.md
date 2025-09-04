@@ -5,7 +5,7 @@
 ---
 
 ## 🌟 功能特点
-<img src="https://github.com/user-attachments/assets/6452f59d-146d-4e94-a8ad-09c0d97842d3" alt="描述" width="200"/>
+<img src="https://github.com/user-attachments/assets/6452f59d-146d-4e94-a8ad-09c0d97842d3" alt="描述" width="200"/> <img src="https://github.com/user-attachments/assets/adbc4423-dae9-46bf-afb6-85c3eb2297c7" alt="描述" width="200"/>
 
 
 - **🔍 单词查询**  
@@ -17,7 +17,7 @@
   - 支持将查询结果保存至本地。
   - 可按时间或字母排序查看已保存的单词。
   - 支持删除已保存查询。
-  - <img src="https://github.com/user-attachments/assets/adbc4423-dae9-46bf-afb6-85c3eb2297c7" alt="描述" width="200"/>
+  -
 - **🔊 发音功能**  
   - 支持播放单词的本地音频（位于 `speech/` 目录）。
   - 自动检测音频文件是否存在。
