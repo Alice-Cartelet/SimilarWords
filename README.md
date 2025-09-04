@@ -5,8 +5,9 @@
 ---
 
 ## 🌟 功能特点
+<p align="center">
 <img src="https://github.com/user-attachments/assets/6452f59d-146d-4e94-a8ad-09c0d97842d3" alt="描述" width="200"/> <img src="https://github.com/user-attachments/assets/adbc4423-dae9-46bf-afb6-85c3eb2297c7" alt="描述" width="200"/><img src="https://github.com/user-attachments/assets/75a3f096-0452-42b2-9864-e4f48b59c03e" alt="描述" width="200"/>
-
+</p>
 
 - **🔍 单词查询** 
 
