@@ -44,6 +44,7 @@
 ### 1. 克隆项目并打开 Xcode：
    ```bash
    git clone <你的仓库地址>
+   ```
 
 ### 2.若需要使用百度翻译，请在 WordManager 中配置 appid 和 key：
   let appid = "你的appid"
