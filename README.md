@@ -5,10 +5,11 @@
 ---
 
 ## 🌟 功能特点
-<img src="https://github.com/user-attachments/assets/6452f59d-146d-4e94-a8ad-09c0d97842d3" alt="描述" width="200"/> <img src="https://github.com/user-attachments/assets/adbc4423-dae9-46bf-afb6-85c3eb2297c7" alt="描述" width="200"/>
+<img src="https://github.com/user-attachments/assets/6452f59d-146d-4e94-a8ad-09c0d97842d3" alt="描述" width="200"/> <img src="https://github.com/user-attachments/assets/adbc4423-dae9-46bf-afb6-85c3eb2297c7" alt="描述" width="200"/><img src="https://github.com/user-attachments/assets/75a3f096-0452-42b2-9864-e4f48b59c03e" alt="描述" width="200"/>
 
 
-- **🔍 单词查询**  
+- **🔍 单词查询** 
+
   - 输入单词后可查找 **相似词** 或 **近义词**。
   - 相似词通过 **Levenshtein 编辑距离算法**计算相似度。
   - 近义词可通过本地数据匹配，并可调用 **百度翻译 API** 获取外部释义（需自行配置 API）。
